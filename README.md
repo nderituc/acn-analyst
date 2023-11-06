@@ -1,1 +1,1 @@
-# acn-gpt-analyst
+# acn-analyst
